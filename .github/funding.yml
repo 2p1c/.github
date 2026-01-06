@@ -1,5 +1,7 @@
 open_collective: abd857
-custom: -http://127.0.0.1:5500/pages/sponsor.html
+custom:
+  -https://2p1c.github.io/pages/sponsor.html
+
 # Fiscal host 申请表里的 “project profile URL” 通常指你的 OpenCollective 项目主页：
 #   https://opencollective.com/Diss-Lab
 # 不是 donate 链接（donate 只是捐赠落地页）：
